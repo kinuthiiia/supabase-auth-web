@@ -16,9 +16,9 @@ Important libraries:
 First , clone and install dependancies:
 
 ```bash
-git clone https://github.com/kinuthiiia/supabase-auth-passwordless.git
+git clone https://github.com/kinuthiiia/supabase-auth-web.git
 
-cd supabase-auth-passwordless
+cd supabase-auth-web
 
 npm i -S
 ```
